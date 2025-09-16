@@ -1,1 +1,1 @@
-![Dashboard de Vendas](./imagens/Dashboard_Vendas.png)
+![Dashboard de Vendas](./imagens/Dashboard_Vendas.PNG)
